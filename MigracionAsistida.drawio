@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" modified="2023-07-20T14:44:51.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zB0kP0Jf_IaKK7iZlhWz" version="21.6.2" type="github">
+  <diagram name="Página-1" id="xQPAtw4aS_MgjRxm6S1_">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TfHmJU94N06Tko-hS5HS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-1" target="TfHmJU94N06Tko-hS5HS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-2" target="TfHmJU94N06Tko-hS5HS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-2" value="Captura de propiedades del proyecto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-5" target="TfHmJU94N06Tko-hS5HS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-5" target="TfHmJU94N06Tko-hS5HS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-5" value="Análisis &lt;br&gt;de Aplicación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-6" target="TfHmJU94N06Tko-hS5HS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-6" target="TfHmJU94N06Tko-hS5HS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-47" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfHmJU94N06Tko-hS5HS-46">
+          <mxGeometry x="0.0545" y="-4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-6" value="¿Es posible &lt;br&gt;migrar metodología &lt;br&gt;de desarrollo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="447.5" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-7" target="TfHmJU94N06Tko-hS5HS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-7" value="Retroalimentacion de template" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-8" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-9" target="TfHmJU94N06Tko-hS5HS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-9" target="TfHmJU94N06Tko-hS5HS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-42" value="Lectura de atributos por tecnolgoigia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfHmJU94N06Tko-hS5HS-41">
+          <mxGeometry x="0.5034" y="-3" relative="1" as="geometry">
+            <mxPoint x="-58" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-9" value="Repositorio o template" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-10" value="Registro de Casos entre tecnologias" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-17" target="TfHmJU94N06Tko-hS5HS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-24" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfHmJU94N06Tko-hS5HS-23">
+          <mxGeometry x="0.2" y="5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-17" target="TfHmJU94N06Tko-hS5HS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-28" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfHmJU94N06Tko-hS5HS-27">
+          <mxGeometry x="-0.0229" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-17" value="¿Es posible &lt;br&gt;replicar la funcionalidad &lt;br&gt;de la aplicación?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="440" width="170" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-30" value="Registro de todas las tecnologias asociadas al proyecto tanto como metodologia de desarrollo y software" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="185" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-32" value="Estudio de diagramas, coenfluence, repositorio, casos de prueba etc" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="325" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-34" target="TfHmJU94N06Tko-hS5HS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-34" target="TfHmJU94N06Tko-hS5HS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-34" value="Realizar Migracion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="482.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-35" target="TfHmJU94N06Tko-hS5HS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-35" value="Realizar documentacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfHmJU94N06Tko-hS5HS-36" target="TfHmJU94N06Tko-hS5HS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-36" value="Investigar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfHmJU94N06Tko-hS5HS-44" value="Realizar migracion basado en analisis de tecnologias y factibilidades entre transpaso asistido por IA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
